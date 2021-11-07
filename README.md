@@ -1,9 +1,9 @@
 ## Overview
 ### Screenshot
 
-![Desktop](./screenshot-1.png)
+[Desktop](./screenshot-1.png)
 
-![Mobil](./screenshot-2.png)
+[Mobil](./screenshot-2.png)
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
